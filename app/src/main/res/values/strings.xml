@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculete Tip</string>
+    <string name="toast_message">toast message</string>
+    <string name="happy_birthday">happy birthday</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_countUp">toast count up</string>
+    <string name="toast_countDown">toast count down</string>
+    <string name="happy_birthday_sam">Happy Birthday, Sam!</string>
+    <string name="from_nanny">From NanNy</string>
+    <string name="todo">TODO</string>
+    <string name="go_back">go back</string>
+    <string name="calculete">Calculete</string>
+    <string name="how_was_the_service">How was the service for restaurant the pizza company ?</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="cost_of_service">Cost of Service</string>
+    <string name="good_18">Good (18%)</string>
+    <string name="ok_15">OK (15%)</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="label">label</string>
+    <string name="ic_service">ic_service</string>
+    <string name="ic_store">ic_store</string>
+    <string name="ic_round_up">ic_round_up</string>
+</resources>
